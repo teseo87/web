@@ -193,8 +193,8 @@ hr {
 }
 #about img {
 	border-radius: 50%;
-	width: 200px;
-	height: 200px;
+	width: 400px;
+	height: 300px;
 	display: inline-block;
 }
 #about p {
@@ -655,7 +655,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-family: 'Lato', sans-serif;
 	font-size: 20px;
 	margin-bottom: 40px;
-	margin-top: 20px;
+	margin-top: 80px;
 }
 section {
 	padding: 120px 0;
